@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <projectUrl>http://kazuktnd.wordpress.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>initial upload</releaseNotes>
+    <copyright>Copyright 2012 Kazuhiko Kikuchi (@kazuk) </copyright>
+    <tags>MSIL UnitTesting Mocking</tags>
+  </metadata>
+</package>
